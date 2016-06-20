@@ -1,10 +1,11 @@
 # Keen IO Community Code of Conduct
 
-Table of Contents:
 
-Short Form Code of Conduct
+### Table of Contents:
 
-Long Form Code of Conduct
+[Short Form Code of Conduct](#Short-Form-Code-of-Conduct)
+
+[Long Form Code of Conduct](#Long-Form-Code-of-Conduct)
 - Behavior
 - Procedures
 - Enforcement
@@ -12,4 +13,10 @@ Long Form Code of Conduct
 - Additional Items
 - Sources
 
-Procedures for Incident Reporting
+----------
+
+## Short Form Code of Conduct
+
+
+## Long Form Code of Conduct
+
